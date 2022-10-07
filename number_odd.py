@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of odd digits in it.
-a=3759
+a=3756
 #Create a variable "var_int" and assign it a four-digit integer value.
 b=a//1000%2
 d=a-b*1000
