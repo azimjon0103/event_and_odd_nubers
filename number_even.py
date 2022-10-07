@@ -9,5 +9,5 @@ f=e//10%2
 g=e-f*10
 h=g%2
 #Print the number of even digits in the variable "var_int".
-var_int=4-(b+c+f+h)
+var_int=4-(b+c+f+h) 
 print(var_int)
