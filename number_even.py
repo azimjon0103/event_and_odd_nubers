@@ -1,5 +1,5 @@
 #A four-digit integer is given. Find the number of even digits in it.
-a=2000
+a=3000
 #Create a variable "var_int" and assign it a four-digit integer value.
 b=a//1000%2
 d=a-b*1000
